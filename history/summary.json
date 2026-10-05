@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nijiiro.maril.blue.ico",
     "slug": "nijiiro",
     "status": "up",
-    "uptime": "17.82%",
-    "uptimeDay": "17.82%",
-    "uptimeWeek": "17.82%",
-    "uptimeMonth": "17.82%",
-    "uptimeYear": "17.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 485,
     "timeDay": 485,
     "timeWeek": 485,
     "timeMonth": 485,
     "timeYear": 485,
-    "dailyMinutesDown": {
-      "2026-10-05": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
