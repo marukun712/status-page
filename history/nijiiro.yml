@@ -1,7 +1,7 @@
-url: https://nijiiro.maril.blue
-status: down
-code: 404
-responseTime: 415
-lastUpdated: 2026-10-05T15:33:55.728Z
+url: https://nijiiro.maril.blue/.well-known/did.json
+status: up
+code: 200
+responseTime: 555
+lastUpdated: 2026-10-05T15:35:20.462Z
 startTime: 2026-10-05T15:33:42.447Z
 generator: Upptime <https://github.com/upptime/upptime>
