@@ -12,7 +12,7 @@ sites:
   - name: mattermost
     url: https://mattermost.maril.blue
   - name: nijiiro
-    url: https://nijiiro.maril.blue
+    url: https://nijiiro.maril.blue/.well-known/did.json
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
