@@ -4,10 +4,10 @@
     "url": "https://maril.blue",
     "icon": "https://icons.duckduckgo.com/ip3/maril.blue.ico",
     "slug": "maril-blue",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 927,
@@ -15,17 +15,19 @@
     "timeWeek": 900,
     "timeMonth": 943,
     "timeYear": 927,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-07": 1
+    }
   },
   {
     "name": "ll-wiki",
     "url": "https://ll-wiki.maril.blue",
     "icon": "https://icons.duckduckgo.com/ip3/ll-wiki.maril.blue.ico",
     "slug": "ll-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
@@ -33,17 +35,19 @@
     "timeWeek": 635,
     "timeMonth": 673,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-07": 1
+    }
   },
   {
     "name": "n-lovehigh",
     "url": "https://n-lovehigh.maril.blue",
     "icon": "https://icons.duckduckgo.com/ip3/n-lovehigh.maril.blue.ico",
     "slug": "n-lovehigh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 708,
@@ -51,16 +55,18 @@
     "timeWeek": 734,
     "timeMonth": 713,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-07": 1
+    }
   },
   {
     "name": "mattermost",
     "url": "https://mattermost.maril.blue",
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.maril.blue.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 1598,
     "timeMonth": 1710,
     "timeYear": 1761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-07": 0
+    }
   },
   {
     "name": "nijiiro",
     "url": "https://nijiiro.maril.blue/.well-known/did.json",
     "icon": "https://icons.duckduckgo.com/ip3/nijiiro.maril.blue.ico",
     "slug": "nijiiro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 643,
     "timeMonth": 632,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-07": 0
+    }
   }
 ]
