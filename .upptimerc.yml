@@ -8,19 +8,15 @@ sites:
   - name: ll-wiki
     url: https://ll-wiki.maril.blue
   - name: n-lovehigh
-    url: https://n-lovehigh.maril.blue
-  - name: mattermost
-    url: https://mattermost.maril.blue
-  - name: nijiiro
-    url: https://nijiiro.maril.blue/.well-known/did.json
+    url: https://maril.blue/n-lovehigh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://avatars.githubusercontent.com/u/87289638?v=4
+  name: maril.blue status
   introTitle: "maril.blue status"
   introMessage: maril.blueのステータスページ
   navbar:
