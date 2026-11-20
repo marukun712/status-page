@@ -8,7 +8,7 @@ sites:
   - name: ll-wiki
     url: https://ll-wiki.maril.blue
   - name: n-lovehigh
-    url: https://maril.blue/n-lovehigh
+    url: https://maril.blue/n-high-lovelive
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
