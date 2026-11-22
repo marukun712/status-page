@@ -7,8 +7,12 @@ sites:
     url: https://maril.blue
   - name: ll-wiki
     url: https://ll-wiki.maril.blue
-  - name: n-lovehigh
+  - name: N高ラブライブ同好会HP
     url: https://maril.blue/n-high-lovelive
+  - name: NetBird
+    url: https://netbird.maril.blue/
+  - name: syakechan cluster
+    url: https://syakechan.maril.blue/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
